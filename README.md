@@ -33,7 +33,7 @@ If you'd like to see some examples, check them out on the [online playground!](h
 ## Compile Yourself!
 
 > [!NOTE]
-> Currently there are no instructions for Windows and OSX.
+> Currently there are no instructions for Windows or macOS.
 
 ### Linux
 
